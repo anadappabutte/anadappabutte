@@ -1,0 +1,51 @@
+.main{
+    height: 1150px;
+    width: 100%;
+    background-color: lightblue  ;
+}
+
+.header{
+    height: 130px;
+    width: 90%;
+    margin: auto;
+    background-color: aqua;
+    border: solid 3px brown ;
+
+}
+.contant{
+    
+    height: 100px;
+    width: 90%;
+    margin: auto;
+    background-color: gray;
+    border: solid 3px orangered ;
+
+}
+.sidebar{
+    height: 800px;
+    width: 59%;
+    background-color: green;
+    border: solid 3px yellow ;
+    float: left;
+    margin-left: 5%;
+
+}
+.Data{
+
+    height: 800px;
+    width: 28%;
+    background-color:yellow ;
+    border: solid 3px brown ;
+    margin-right: 5%;
+    float: right;
+
+}
+.footer{
+
+    height: 10%;
+    width: 90%;
+    background-color: orange;
+    border: solid 3px black ;
+    float: inherit;
+    
+}
