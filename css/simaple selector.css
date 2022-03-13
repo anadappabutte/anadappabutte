@@ -1,0 +1,16 @@
+        *{
+            font-size: 300px; 
+        }
+        p,h1{
+            color: aquamarine;
+            background-color: brown;
+            font-size: 30px;
+        }
+        #anand{
+            background-color: blue;
+            color: yellow;
+        }
+        #mahesh{
+            background-color: chartreuse;
+            color: crimson;
+        }

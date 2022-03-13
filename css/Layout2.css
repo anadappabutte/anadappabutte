@@ -1,0 +1,25 @@
+.header{
+    height: 150px;
+    width: 100%;
+    background-color: orange;
+    /* padding: 100px; */
+    
+}
+.sidebar{
+    height: 300px;
+    width:30% ;
+    background-color: aquamarine;
+    float: left;
+}
+.contant{
+    height: 300px;
+    width: 70%;
+    background-color: blue;
+    float: right;
+}
+.footer{
+    height: 150px;
+    width: 100%;
+    background-color: red;
+    
+}
