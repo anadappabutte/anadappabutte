@@ -1,0 +1,131 @@
+*{
+    margin :auto;
+    padding:0%;
+}
+.main{
+    width: 1250px;
+    height: 1000px;
+    background-color:orange ;
+    margin: auto;
+}
+.header{
+    width: 1200px; ;
+    height: 150px;
+    background-color:red ;
+    margin: auto;
+  
+}
+.barnding{
+    
+    width: 400px;
+    height: 150px;
+    background-color: magenta ;
+    float:left;
+   
+}
+.barnding img{
+    width: 400px;
+    height: 150px;
+}
+.socialmedia{
+    
+    width: 800px;
+    height: 100px;
+    background-color:mediumblue ;
+    float:left;
+}
+.socialmedia img{
+    width: 120px;
+    height: 80px;
+}
+.menu{
+    
+    width:800px ;
+    height: 50px;
+    background-color:aqua ;
+    float: left;
+}
+.menu ul li{
+    float: left;
+    list-style: none;
+    display: block;
+    background-color: brown;
+    margin-left: 8px;
+    margin-top: 5px;
+    height: 40px;
+    width: 190px;
+    text-align: center;
+    line-height: 40px;
+}
+.menu ul li:hover{
+    background-color: azure;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color:black ;
+
+}
+.container{
+    width: 1200px;
+    height: 800px;
+    background-color:green ;
+    margin: auto;
+
+}
+.gallary{
+    width: 1200px;
+    height: 400px;
+    background-color: blue;   
+    overflow: scroll; 
+}
+.gallary img{
+    width: 590px ;
+    height: 500px;px ;
+    float: left;    
+}
+.courses{
+    width: 1200px;
+    height: 400px;
+    background-color: pink;
+}
+.courses img{
+    height: 380px;
+    width: 300px;
+}
+.bootcamp{
+    height:400px ;
+    width: 300px;
+    background-color: aliceblue;
+    float: left;
+
+}
+.cloudcomputig{
+    height:400px ;
+    width: 300px;
+    background-color:chocolate;
+    float: left;
+}
+.datascience{
+    height:400px ;
+    width: 300px;
+    background-color:mediumaquamarine;
+    float: left;
+
+}
+.systemdesgin{
+    height:400px ;
+    width: 300px;
+    background-color:darkgoldenrod;
+    float: left;    
+}
+
+.footer{    
+    width: 1200px;
+    height: 50px;
+    background-color: yellow;
+
+}
+.footer h3{
+    text-align: center;
+}
