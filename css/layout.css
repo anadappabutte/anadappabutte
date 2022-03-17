@@ -1,8 +1,8 @@
 .main{
     height: 1150px;
     width: 100%;
-    background-color: lightblue  ;
-}
+    background-color: lightblue ;
+}   
 
 .header{
     height: 130px;
@@ -23,9 +23,9 @@
 }
 .sidebar{
     height: 800px;
-    width: 59%;
+    width: 60%;
     background-color: green;
-    border: solid 3px yellow ;
+    /* border: solid 1px yellow ; */
     float: left;
     margin-left: 5%;
 
@@ -33,9 +33,9 @@
 .Data{
 
     height: 800px;
-    width: 28%;
+    width: 30%;
     background-color:yellow ;
-    border: solid 3px brown ;
+    /* border: solid 1px brown ; */
     margin-right: 5%;
     float: right;
 
@@ -46,6 +46,7 @@
     width: 90%;
     background-color: orange;
     border: solid 3px black ;
-    float: inherit;
+    float: left;
+    margin-left: 5%;
     
 }
